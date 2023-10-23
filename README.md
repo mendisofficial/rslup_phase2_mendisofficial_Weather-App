@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone the repository or download the project to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/mendisofficial/rslup_phase2_mendisofficial_Weather-App.git
    ```
 
 2. Navigate to the project directory.
